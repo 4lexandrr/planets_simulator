@@ -1,2 +1,2 @@
-# vs_code_project
-# Planet simulator using pygame, written as an educational project at the institute
+# Planet simulator
+Симулятор движения планет вокруг солнца.
